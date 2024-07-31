@@ -45,7 +45,10 @@ global.scan = "";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  ""
+  "```Hello This is queen elisa whatsapp bot SESSION_ID Don't Shere this with others.```
+
+
+> ELISACODERS"
 module.exports = {
   menu: process.env.MENU || "",
   HANDLERS: process.env.PREFIX || ".",
