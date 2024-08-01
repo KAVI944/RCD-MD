@@ -45,7 +45,7 @@ global.scan = "";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  ""
+  "https://github.com/DEXTER-BOTS/RCD-MD"
 module.exports = {
   menu: process.env.MENU || "",
   HANDLERS: process.env.PREFIX || ".",
